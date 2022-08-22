@@ -38,7 +38,7 @@ body {
     -webkit-border-radius: 14;
     -moz-border-radius: 14;
     border-radius: 14px;
-    font-family: Arial;
+    font-family: 'Montserrat', sans-serif;
     color: #ffffff;
     font-size: 40px;
     padding: 10px 20px 10px 20px;
@@ -472,7 +472,7 @@ body {
 
 .v126_47 {
     width: 117px;
-    color: rgba(249, 79, 109, 1);
+    color: #f94f6d;
     position: absolute;
     top: 140px;
     left: 350px;
